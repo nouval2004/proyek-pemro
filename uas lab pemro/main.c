@@ -6,6 +6,7 @@ typedef struct registration
 {
     char nama[20];
     char pekerjaan[20];
+    char alamat[50];
     char umur[20];
     char universitas[50];
     char jurusan[20];
@@ -33,7 +34,8 @@ int main(int manyArgument, char *argument[])
         printf("Silahkan registrasi terlebih dahulu sebelum memulai game quiz <3\n");
         printf("Nama\t\t: "); gets(reg.nama);
         printf("Pekerjaan\t: "); gets(reg.pekerjaan);
-        printf("Hobby\t\t: "); gets(reg.umur);
+        printf("alamat\t\t: "); gets(reg.alamat);
+        printf("umur\t\t: "); gets(reg.umur);
         printf("universitas (optional)\t: "); gets(reg.universitas);
         printf("jurusan (optional\t\t: "); gets(reg.jurusan);
         printf("\n");
