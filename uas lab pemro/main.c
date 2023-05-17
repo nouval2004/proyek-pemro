@@ -208,7 +208,7 @@ void soal()
     printf("\n\n4.kapan terjadinya hari sumpah pemuda?");
     printf("\n\tA. 28 oktober\n");
     printf("\tB. 20 oktober\n");
-    printf("\tC. 11 juni\n");
+    printf("\tC. 12 juni\n");
     printf("Jawaban anda (A/B/C) : ");
     gets(jawab);
     fflush(stdin);
