@@ -205,7 +205,7 @@ void soal()
     }
   printf("jika berhasil menjawab pertanyaan ini,total hadiah anda = Rp200.000");
     printf("\nUang yang telah anda kumpulkan = Rp%d", uang);
-    printf("\n\n4.kapan hari sumpah pemuda?");
+    printf("\n\n4.kapan terjadinya hari sumpah pemuda?");
     printf("\n\tA. 28 oktober\n");
     printf("\tB. 20 oktober\n");
     printf("\tC. 11 juni\n");
