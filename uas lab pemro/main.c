@@ -238,7 +238,7 @@ void soal()
 
     if (jawab[0] == 'B')
     {
-      printf("selamat jawaban anda benar");
+      printf("selamat jawaban anda benar semua");
       uang = +250000;
       printf("Rp.%d", uang);
       printf("\ntotal hadiah yang anda dapatkan adalah Rp.%d",uang);
