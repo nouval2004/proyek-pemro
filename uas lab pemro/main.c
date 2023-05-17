@@ -228,7 +228,7 @@ void soal()
 
       exit(1);
     }  
-  printf("jika berhasil menjawab pertanyaan ini,total hadiah anda = Rp250.000");
+  printf("jika berhasil menjawab pertanyaan ini,total hadiah anda = Rp270.000");
     printf("\nUang yang telah anda kumpulkan = Rp%d", uang);
     printf("\n\n5.siapa saja yang pernah menjajah indonesia?");
     printf("\n\tA. belanda,chile,malaysia\n");
